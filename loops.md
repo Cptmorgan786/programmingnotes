@@ -1,3 +1,4 @@
+#Loops
 Loops are a fundamental concept in programming that allow you to repeatedly execute a block of code. They are used when you need to perform a specific task or a set of tasks multiple times without writing the same code over and over. In Python, there are mainly two types of loops: for loops and while loops. Additionally, there are loop control statements like break and continue that help control the flow of loops.
 
 For Loop:
