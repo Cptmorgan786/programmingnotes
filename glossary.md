@@ -2,7 +2,7 @@
 **Variable:**
 Example: age = 25
 Definition: A variable is a container for storing data in a program. It has a name and can hold different types of data, such as numbers, text, or objects.
-Input:
+**Input:**
 
 Example: name = input("Enter your name: ")
 Definition: Input is a way to receive data from the user during program execution. In this example, the input function is used to read a line of text entered by the user.
