@@ -13,7 +13,7 @@ def greet():
 greet()
 Output:
 
-Copy code
+
 Hello, world!
 Functions with Parameters:
 Functions can take parameters (also known as arguments) which are values passed to the function when it is called. Parameters allow functions to work with different data dynamically.
@@ -21,7 +21,7 @@ Functions can take parameters (also known as arguments) which are values passed 
 Example 1: Function with parameters:
 
 python
-Copy code
+
 def greet_person(name):
     print(f"Hello, {name}!")
 
@@ -29,7 +29,7 @@ def greet_person(name):
 greet_person("Alice")
 Output:
 
-Copy code
+
 Hello, Alice!
 Return Values:
 Functions can also return values using the return keyword. This allows a function to provide a result or data back to the caller.
