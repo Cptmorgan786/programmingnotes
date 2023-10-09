@@ -5,7 +5,7 @@ Declaring Functions:
 In Python, you declare a function using the def keyword, followed by the function name, parentheses (), and a colon :. The function body is indented and contains the code to be executed when the function is called.
 
 python
-Copy code
+
 def greet():
     print("Hello, world!")
 
@@ -37,7 +37,7 @@ Functions can also return values using the return keyword. This allows a functio
 Example 2: Function with a return value:
 
 python
-Copy code
+
 def add(a, b):
     result = a + b
     return result
@@ -51,7 +51,7 @@ Python has different scopes for variables, including local and global scopes. Va
 Example 3: Function with local and global variables:
 
 python
-Copy code
+
 global_var = 10
 
 def my_function():
